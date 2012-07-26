@@ -8,6 +8,7 @@ namespace WinFormTest1
 	public class Form1 : Form
 	{ 
 		private Button b;
+		private int i = 0;
 
 		public Form1 ()
 		{
@@ -31,7 +32,8 @@ namespace WinFormTest1
 		// Button_Clicked
 		private void Button_Clicked (object sender, EventArgs e)
 		{
-		  System.Console.Write ("ボタンがクリックされました。\n");
+		  	System.Console.Write ("ボタンがクリックされました。\n");
+			this.b.Text += i++;
 		}
 	}
 }
