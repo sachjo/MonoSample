@@ -1,2 +1,4 @@
 
-WinFormTest1
+*.exe
+
+WinFormTest1/bin/Debug/WinFormTest1.exe.mdb
