@@ -33,7 +33,7 @@ namespace WinFormTest1
 		private void Button_Clicked (object sender, EventArgs e)
 		{
 		  	System.Console.Write ("ボタンがクリックされました。\n");
-			this.b.Text += i++;
+			this.b.Text = ++i + "回目のクリック";
 		}
 	}
 }
