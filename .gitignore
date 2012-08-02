@@ -2,3 +2,9 @@
 *.exe
 
 WinFormTest1/bin/Debug/WinFormTest1.exe.mdb
+WinFormTest1/bin/Debug/WinFormTest1.pdb
+WinFormTest1/bin/Debug/WinFormTest1.vshost.exe.manifest
+WinFormTest1/obj/x86/Debug/ResolveAssemblyReference.cache
+WinFormTest1/obj/x86/Debug/WinFormTest1.csproj.FileListAbsolute.txt
+WinFormTest1/obj/x86/Debug/WinFormTest1.pdb
+WinFormTest1/WinFormTest1.suo
